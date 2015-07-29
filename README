@@ -1,0 +1,10 @@
+Monster Hunter 4U Decryption Toolkit
+===============
+.Net 3.5 required.
+A toolkit based on the python scripts provided by https://github.com/svanheulen/mhef
+Included also is a simple gui to permit the decryption/encryption of DLC and extracted savedata files for various regions and to serve as an example of sorts. 
+
+## Acknowledgements
+
+Seth VanHeulen	- Original python scripts & various encryption keys.
+Russ Young		- Blowfish class

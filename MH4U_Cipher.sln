@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MH4U_Cipher", "MH4U_Cipher\MH4U_Cipher.csproj", "{B05E344A-E08C-4C1D-B4C3-0531C7C072C0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{760718DA-0BD8-4E57-9519-BACD78092C59} = {760718DA-0BD8-4E57-9519-BACD78092C59}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MH4UCipherLibrary", "MH4UCipherLibrary\MH4UCipherLibrary.csproj", "{760718DA-0BD8-4E57-9519-BACD78092C59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05E344A-E08C-4C1D-B4C3-0531C7C072C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05E344A-E08C-4C1D-B4C3-0531C7C072C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05E344A-E08C-4C1D-B4C3-0531C7C072C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05E344A-E08C-4C1D-B4C3-0531C7C072C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760718DA-0BD8-4E57-9519-BACD78092C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760718DA-0BD8-4E57-9519-BACD78092C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760718DA-0BD8-4E57-9519-BACD78092C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760718DA-0BD8-4E57-9519-BACD78092C59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
